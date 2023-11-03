@@ -1,10 +1,12 @@
+// create two different arrays called array1 and array2. array1 contains a, b, c, array2 contains d, e, f.
+// create a new array called array3 that is a concat of array1 and array2
+// console log array3
+
+
 var array1 = ["a", "b", "c"];
 var array2 = ["d", "e", "f"];
-
-
-
-
-
+var array3 = array1.concat(array2);
+console.log(array3); // [ 'a', 'b', 'c', 'd', 'e', 'f' ]
 
 
 
