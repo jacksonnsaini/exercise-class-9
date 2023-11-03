@@ -3,9 +3,6 @@ console.log(classroomSupplies); // pen, paper, desk, computer
 sort(classroomSupplies); 
 console.log(classroomSupplies); // desk, computer, paper, pen
 
-
-
-
 var travelPlaces = [];
     travelPlaces.push("Toronto");
     travelPlaces.push("New York");
